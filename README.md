@@ -1,1 +1,3 @@
 # gitclass
+
+Exercise 3
